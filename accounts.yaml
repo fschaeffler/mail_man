@@ -1,0 +1,16 @@
+account1:
+  host: pop.googlemail.com
+  port: 995
+  ssl: ssl/tls
+  username: <USERNAME>@googlemail.com
+  password: <PASSWORD>
+  redirect_to: <USER@DOMAIN.TLD>
+  min_interval: 5
+account2:
+  host: pop3.web.de
+  port: 995
+  ssl: ssl/tls
+  username: <USERNAME>
+  password: <PASSWORD>
+  redirect_to: <USER@DOMAIN.TLD>
+  min_interval: 15
